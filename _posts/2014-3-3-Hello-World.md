@@ -7,10 +7,10 @@ Hello! My name is Zarina. I am 14 y.o. And I like to play asphalt 8 and eat choc
 
 ![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
 
-<p> Rules of games:</p> 
+ <p> Rules of games:</p> 
   Yoe should bump into decoration (in the city).
- Winning condition:
+ <p> Winning condition:</p> 
   You should be first, second or third.
-Story:
+ <p> Story:</p> 
    Once upon a time a boy was born on the earth , and from childhood he wanted to be racer . And now, after 25 years, he became a professional racer and won lot of competition .
 
