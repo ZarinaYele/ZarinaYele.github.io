@@ -8,7 +8,7 @@ Hello! My name is Zarina. I am 14 y.o. And I like to play asphalt 8 and eat choc
 ![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
 
  <h> Rules of games:</h> 
-  Yoe should bump into decoration (in the city).
+ <p> Yoe should bump into decoration (in the city).</p>
  <h> Winning condition:</h> 
   You should be first, second or third.
  <h> Story:</h> 
