@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Developers
+title: Developers team
 ---
 
-Hello! My name is Zarina. And I like to play asphalt 8.
+Development - a business activity related to the creation of the property .
 
 ![_config.yml]({{ site.baseurl }}/images/developers.png)
 
- <h> Rules of games:</h> 
- <p> Yoe shouldn't bump into decoration (in the city).</p>
- <h> Winning condition:</h> 
-  You should be first, second or third.
- <h> Story:</h> 
-  Once upon a time a boy was born on the earth , and from childhood he wanted to be racer. And now, after 25 years, he became a professional racer and won lot of competition.
+ Producer- provider/manager
+ Desiner- BluePrint/Plan
+ Engeneer- bilder
+ Scintist- evaluation
+ Artist- visual
+ 
