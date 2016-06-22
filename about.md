@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: HI!
+permalink: /HI!/
 ---
 
-Some information about you!
+### Information about me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Zarina. I born in Petropavlovck.I am study in 8 grad at NIS. I have 2 elder sisters. And I like to listen music or play games.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yeleukina02@mail.ru](mailto:yeleukina02@mail.ru)
