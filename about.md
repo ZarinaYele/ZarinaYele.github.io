@@ -4,8 +4,6 @@ title: About me :3
 permalink: /about/
 ---
 
-Some information about me.
-
 ### My Past
 
 I born in Petropavlovsk, Kazakhstan.
