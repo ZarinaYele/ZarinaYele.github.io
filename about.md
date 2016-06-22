@@ -1,17 +1,25 @@
 ---
 layout: page
+title: About me :3
 permalink: /about/
-title: Hello!
- ---
- 
-Some information about you!
- 
-### More Information
+---
 
+Some information about me.
 
-My name is Zarina. I waz born in Kazakhstan, Petropalovsk. And now I studied in 8 grad at NIS. Also, I have 2 elder sisters.
- 
- ### Contact me
- 
-[email@domain.com](mailto:email@domain.com)
+### My Past
+
+I born in Petropavlovsk, Kazakhstan.
+
+I have 2 elder sisters.
+
+### My Present
+
+I studied in 8 grade at NIS.
+
+I like sweets and to listen music.
+
+### My Future
+
+I want to study in USA or in France.
+
 
