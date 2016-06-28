@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game Review of There's Only One Level.
+title: Artificial Intelligence.
 ---
 
 ![_config.yml](http://blog.hackerearth.com/wp-content/uploads/2015/12/AI.jpg)
@@ -8,3 +8,4 @@ title: Game Review of There's Only One Level.
 
 
 [LINK](http://www.onemorelevel.com/game/there_is_only_one_level)
+
