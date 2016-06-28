@@ -3,7 +3,7 @@ layout: post
 title: Game Review of There's Only One Level.
 ---
 
-![_config.yml](http://i.huffpost.com/gen/1797205/images/o-ARTIFICIAL-INTELLIGENCE-facebook.jpg)
+![_config.yml](http://blog.hackerearth.com/wp-content/uploads/2015/12/AI.jpg)
 
 
 
