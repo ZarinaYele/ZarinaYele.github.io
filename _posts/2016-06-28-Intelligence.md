@@ -7,5 +7,3 @@ title: Artificial Intelligence.
 
 
 
-[LINK](http://www.onemorelevel.com/game/there_is_only_one_level)
-
