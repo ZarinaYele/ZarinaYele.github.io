@@ -8,6 +8,7 @@ title: Artificial Intelligence - Machines and humans.
  ---
 
 Artificial Intelligence (AI): 
+
 1) science and technology for creating intelligent machines, especially intelligent computer programs; 
 
 2) the property of intelligent systems to perform the creative functions that are traditionally considered the prerogative of man.
